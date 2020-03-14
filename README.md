@@ -1,1 +1,1 @@
-ECHO ist eingeschaltet (ON).
+Test for a Progressive Web App.
